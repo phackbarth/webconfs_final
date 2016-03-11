@@ -2,7 +2,7 @@
 title: testblog
 email: phackbar@gmail.com
 description: A test blog using jekyll
-baseurl:'/webconfs_final'
+baseurl:'phackbarth/webconfs_final'
 url: "http://paulhackbarth.com" # the base hostname & protocol for your site
 paginate: 3
 
